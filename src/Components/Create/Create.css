@@ -1,0 +1,36 @@
+.sell_Body .category .title p{
+    color: rgba(0, 47, 52, .64);
+    font-size: 12px;
+}
+.sell_Body .details
+{    
+    border-radius: 0 0 10px 10px;
+}
+.sell_Body .details .details-content{
+    padding: 10px 40px;
+    border: 1px solid rgba(14,4,5,.2);
+}
+.sell_Body .proDetails h2{
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #002f34;
+}
+.sell_Body .proDetails p{
+    font-size: 14px;
+    color: #002f34;
+    line-height: 16px;
+}
+.sell_Body .proDetails input{
+    background: #fff;
+    border-radius: 4px;
+    padding-right: 80px;    
+    border: 1px solid rgba(14,4,5,.4);
+}
+.sell_Body .proDetails span{
+    font-size: 12px;
+    color: #002f34;
+}
+.sell_Body .proDetails .pro{
+    margin: 10px 0;
+}

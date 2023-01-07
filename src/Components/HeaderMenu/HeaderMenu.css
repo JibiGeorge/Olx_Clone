@@ -1,0 +1,35 @@
+.menuBar{
+    box-shadow: 0 1px 4px 0rgba(0,0,0,.1);
+    margin: 0 0 4px;
+    overflow: hidden;
+    padding: 0 40px;
+}
+.menu-content{
+    width: 100%;
+    margin: 0 30px;
+}
+.menu-content .all_Category{
+    align-items: center;
+    margin-right: 16px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #002f34;
+}
+.menus-lists{
+    width: calc(100% - 125px);
+    align-items: center;
+}
+.menus-lists .menus{
+    margin: 0 8px;
+    white-space: nowrap;overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 32px;
+    text-transform: capitalize;
+    font-weight: 400;
+    font-size: 14px;
+    color: #002f34;
+    text-decoration: none;     
+    cursor: pointer;   
+}

@@ -1,0 +1,11 @@
+.banner img{
+    height: 135px;
+    width: 100%;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    background-position-y: center;
+}
+.banner .container-fluid{
+    padding: 0;
+}

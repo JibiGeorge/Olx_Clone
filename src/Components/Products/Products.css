@@ -1,0 +1,73 @@
+
+.title{
+    font-size: 24px;
+}
+.products{
+    border: 1px solid rgba(14,4,5,.2);
+    border-radius: 4px;
+    margin: 8px;
+}
+.pro-img{
+    height: 160px;
+    margin: 8px;
+    text-align: center;
+    overflow: hidden;
+}
+.pro-img img{
+    height: 100%;
+    object-fit: cover;
+}
+.pro-details{
+    border-left: 5px solid #ffce32;
+    padding: 8px 16px;
+}
+.pro-details h2{
+    font-size: 20px;
+    font-weight: 700;
+}
+.pro-details .title{
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.pro-details .place,
+.pro-details .title{
+    color: rgba(0, 47, 52, .64);
+}
+.pro-details .place{
+    font-size: 10px;
+    text-transform: uppercase;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.pro-details .date{
+    font-size: 10px;
+    text-transform: uppercase;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: right;
+}
+.load_more{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+.load_more .button{
+    padding: 0 10px;
+}
+.load_more .button button{
+    color: #002f34;
+    border-radius: 4px;
+    border: 2px solid #002f34;
+    padding: 0 10px;
+    height: 48px;
+    background: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: lowercase;
+    cursor: pointer;
+    line-height: normal;
+}

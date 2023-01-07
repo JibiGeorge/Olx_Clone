@@ -1,0 +1,50 @@
+.footer{
+    background: #ebeeef;
+    padding: 16px 0;
+    font-size: 14px;
+    line-height: 20px;
+    overflow: hidden;
+}
+.footer .row{
+    margin: 0 74.50px;
+    overflow: hidden;
+    
+}
+.footer h3{
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+ul li{
+    cursor: pointer;
+    color: rgba(0,47,52,.64);
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: none;
+}
+ul li:hover{
+    color: #000;
+}
+.social_media{
+    font-size: 32px;
+}
+.autho{
+    background-color: #002f34;
+    padding: 16px 0;
+    color: #fff;
+    font-size: 12px;
+    line-height: 18px;
+}
+.autho .content{
+    padding: 0 30px;
+    justify-content: space-between;
+}
+.autho .com1{
+    font-weight: 700;
+    padding-right: 8px;
+}

@@ -1,0 +1,20 @@
+.ad_img img{
+    width: 100%;
+    position: relative;
+    z-index: -1;
+}
+.ad_img{
+    width: 800px;
+    margin: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    height: 200px;
+    position: relative;
+}
+.ad_img i{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    z-index: 1;
+    cursor: pointer;
+}
